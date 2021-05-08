@@ -1,0 +1,42 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=UI_dau.png
+:size=2048x512
+:pivotpoints=enabled
+:borders=disabled
+
+Dau weboos_00018.png;3;337;188;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00003.png;197;337;185;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00008.png;388;337;185;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00020.png;579;337;185;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00021.png;770;337;185;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00023.png;961;337;185;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00001.png;1152;337;183;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00017.png;1341;337;183;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00022.png;1530;337;183;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00006.png;1719;332;179;177; 0.5;0.5; 0;0;0;0
+Dau weboos_00007.png;1904;337;71;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00009.png;3;159;174;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00024.png;183;159;174;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00005.png;363;159;169;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00026.png;538;159;169;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00000.png;713;159;164;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00016.png;883;159;164;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00019.png;1053;159;164;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00025.png;1223;159;164;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00002.png;713;159;164;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00013.png;713;159;164;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00004.png;1152;337;183;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00012.png;1152;337;183;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00010.png;1719;332;179;177; 0.5;0.5; 0;0;0;0
+Dau weboos_00015.png;1719;332;179;177; 0.5;0.5; 0;0;0;0
+Dau weboos_00014.png;1904;337;71;172; 0.5;0.5; 0;0;0;0
+Dau weboos_00011.png;388;337;185;172; 0.5;0.5; 0;0;0;0

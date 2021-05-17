@@ -12,29 +12,35 @@ public class ScrControlGame : MonoBehaviour
     ///         les vides, els torns, les tirades...
     /// AUTOR:  Lídia García Romero
     /// DATA:   12/05/2021
-    /// VERSIÓ: 1.2
+    /// VERSIÓ: 1.3
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea i s'afegeix la funció de tirades (intent que no funciona).
     ///         1.1: Es perfecciona el sistema de torns amb un altre scipt (ScrTorns).
     ///         1.2: S'acaba i funciona perfecte el sistema de torns.
+    ///         1.3: Es refina que surti el nom del player quan sigui el seu torn i el
+    ///             delay pel dau.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
+    //Per gestió dels jugadors____________________________________________________________
+    public string nomPlayer1 = "Player 1", nomPlayer2 = "Player 2"; 
     [SerializeField] GameObject[] players;
+    //____________________________________________________________________________________
 
     //Pels torns__________________________________________________________________________
     [SerializeField] GameObject dauTxt;
-    [SerializeField] Text dau;
+    [SerializeField] Text dau, nom;
     public int numTirada;
     [SerializeField] GameObject controlTorns;
+    float tempsDelay = 1f; //el temps que passarà abans d'amagar el dau
     //____________________________________________________________________________________
 
     void Start()
     {  
-        //Pels torns__________________________________________________________________________
-        
+        //Pels torns__________________________________________________________________________        
         dauTxt.SetActive(true);
         dau.gameObject.SetActive(false);
+        nom.gameObject.SetActive(true);
         //____________________________________________________________________________________
     }
 
@@ -46,9 +52,12 @@ public class ScrControlGame : MonoBehaviour
         {
             dauTxt.SetActive(false);
             dau.gameObject.SetActive(true);
+            nom.gameObject.SetActive(false);
 
-            numTirada = Random.Range(1, 11); // generem un temps de tirada aleatori
-            dau.text = numTirada.ToString();          
+            tempsDelay = 1f; //resetegem el valor del temps del delay
+
+            numTirada = Random.Range(1, 11); //generem un temps de tirada aleatori
+            dau.text = numTirada.ToString();
 
             if(controlTorns.GetComponent<ScrTorns>().tornActual == 3) //torn player 2
             {
@@ -63,11 +72,21 @@ public class ScrControlGame : MonoBehaviour
             }
         }
 
-        if(controlTorns.GetComponent<ScrTorns>().tornActual == 3 || controlTorns.GetComponent<ScrTorns>().tornActual == 4)
+        //Delay del dau_______________________________________________________________________
+        tempsDelay -= Time.deltaTime;
+
+        if (tempsDelay < 0)
         {
-            dauTxt.SetActive(true);
             dau.gameObject.SetActive(false);
         }
         //____________________________________________________________________________________
-    }
+
+        if (controlTorns.GetComponent<ScrTorns>().tornActual == 3 || controlTorns.GetComponent<ScrTorns>().tornActual == 4)
+        {
+            dauTxt.SetActive(true);
+            dau.gameObject.SetActive(false);
+            nom.gameObject.SetActive(true);
+        }
+        //____________________________________________________________________________________
+    } 
 }

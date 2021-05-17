@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: f527914285e3d0e47846f76000909efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8119640549506515502
+    second: Dau weboos_00018.png
+  - first:
+      213: -6935119182244497018
+    second: Dau weboos_00003.png
+  - first:
+      213: 6241227348102001016
+    second: Dau weboos_00008.png
+  - first:
+      213: 4298975100839570496
+    second: Dau weboos_00020.png
+  - first:
+      213: -5393375613253953765
+    second: Dau weboos_00021.png
+  - first:
+      213: -8180636163962020867
+    second: Dau weboos_00023.png
+  - first:
+      213: 6549585475172030623
+    second: Dau weboos_00001.png
+  - first:
+      213: -3209552807571712328
+    second: Dau weboos_00017.png
+  - first:
+      213: 3784971236692126514
+    second: Dau weboos_00022.png
+  - first:
+      213: -2359100075300257498
+    second: Dau weboos_00006.png
+  - first:
+      213: -8466606890665954537
+    second: Dau weboos_00007.png
+  - first:
+      213: 8815680403666802433
+    second: Dau weboos_00009.png
+  - first:
+      213: 1190283240653976313
+    second: Dau weboos_00024.png
+  - first:
+      213: 8594566492212267994
+    second: Dau weboos_00005.png
+  - first:
+      213: -2833209130639969755
+    second: Dau weboos_00026.png
+  - first:
+      213: -5630028867064201286
+    second: Dau weboos_00000.png
+  - first:
+      213: -8080479661438731434
+    second: Dau weboos_00016.png
+  - first:
+      213: 4844988262864745818
+    second: Dau weboos_00019.png
+  - first:
+      213: -3291867530289678603
+    second: Dau weboos_00025.png
+  - first:
+      213: 7903913179311877311
+    second: Dau weboos_00002.png
+  - first:
+      213: 1486244618402076717
+    second: Dau weboos_00013.png
+  - first:
+      213: 576595244585041648
+    second: Dau weboos_00004.png
+  - first:
+      213: 8360473548890572392
+    second: Dau weboos_00012.png
+  - first:
+      213: 7086568746956971963
+    second: Dau weboos_00010.png
+  - first:
+      213: -4201617522177920590
+    second: Dau weboos_00015.png
+  - first:
+      213: -873050371826195161
+    second: Dau weboos_00014.png
+  - first:
+      213: 1821006418648847377
+    second: Dau weboos_00011.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dau weboos_00018.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 337
+        width: 188
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd7ece90fd315f80800000000000000
+      internalID: -8119640549506515502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00003.png
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 337
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b15bf8d181cf90800000000000000
+      internalID: -6935119182244497018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00008.png
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 337
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b216a43b4d9650800000000000000
+      internalID: 6241227348102001016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00020.png
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 337
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04caac7c31709ab30800000000000000
+      internalID: 4298975100839570496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00021.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 337
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b175ebf7471e625b0800000000000000
+      internalID: -5393375613253953765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00023.png
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 337
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb545270ca887e80800000000000000
+      internalID: -8180636163962020867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00001.png
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 337
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dfa9d94dc4ea50800000000000000
+      internalID: 6549585475172030623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00017.png
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 337
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b694d8f9b06573d0800000000000000
+      internalID: -3209552807571712328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00022.png
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 337
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bea10494be68430800000000000000
+      internalID: 3784971236692126514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 332
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62181260bfac24fd0800000000000000
+      internalID: -2359100075300257498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 337
+        width: 71
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133bf414e1908a80800000000000000
+      internalID: -8466606890665954537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00009.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 174
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079ee1ae96975a70800000000000000
+      internalID: 8815680403666802433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00024.png
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 159
+        width: 174
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f74d0d4cb48010800000000000000
+      internalID: 1190283240653976313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00005.png
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 159
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb89ce40b8064770800000000000000
+      internalID: 8594566492212267994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00026.png
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 159
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522bfc18e4b6ea8d0800000000000000
+      internalID: -2833209130639969755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00000.png
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 159
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7177139e1ed1b0800000000000000
+      internalID: -5630028867064201286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00016.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 159
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bfc256f8e5cdf80800000000000000
+      internalID: -8080479661438731434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00019.png
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 159
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557dfcb72bdc3340800000000000000
+      internalID: 4844988262864745818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00025.png
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 159
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f0791cefe052d0800000000000000
+      internalID: -3291867530289678603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00002.png
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 159
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca96ce82750bd60800000000000000
+      internalID: 7903913179311877311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00013.png
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 159
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2811312b9330a410800000000000000
+      internalID: 1486244618402076717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00004.png
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 337
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febbace15a700800800000000000000
+      internalID: 576595244585041648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 337
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660ca3a56e560470800000000000000
+      internalID: 8360473548890572392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00010.png
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 332
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf51c6aabc885260800000000000000
+      internalID: 7086568746956971963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 332
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1378cef1bd0b5c0800000000000000
+      internalID: -4201617522177920590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00014.png
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 337
+        width: 71
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725e64cff4d42e3f0800000000000000
+      internalID: -873050371826195161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dau weboos_00011.png
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 337
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114554d80b3854910800000000000000
+      internalID: 1821006418648847377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

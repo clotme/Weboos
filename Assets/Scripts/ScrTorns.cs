@@ -28,6 +28,6 @@ public class ScrTorns : MonoBehaviour
 
     void Update()
     {
-        print(tornActual);
+
     }
 }

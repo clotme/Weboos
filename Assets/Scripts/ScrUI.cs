@@ -12,24 +12,26 @@ public class ScrUI : MonoBehaviour
     ///         hi surten.
     /// AUTOR:  Lídia García Romero
     /// DATA:   12/05/2021
-    /// VERSIÓ: 1.1
+    /// VERSIÓ: 1.2
     /// CONTROL DE VERSIONS
     ///         1.0: Únicament es crea l'script per gestionar la variable steps, ja que ajuda
     ///             amb la programació del moviment del player.
     ///         1.1: Es refina que surti el nom del player quan sigui el seu torn.
+    ///         1.2: Es perfecciona i s'adapta el vinculament dels steps.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
     [SerializeField] GameObject controlGame; //Per accedir a les variables del control game
-
-    [SerializeField] GameObject controlTorns;
     [SerializeField] GameObject[] players;
 
+    //Pels steps_________________________________________________________________________
+    [SerializeField] GameObject controlTorns;
     [SerializeField] Text steps, nomPlayerTirada;
+    [SerializeField] GameObject aniDau;
+    //___________________________________________________________________________________
 
     void Start()
     {
-     
     }
 
 
@@ -44,13 +46,21 @@ public class ScrUI : MonoBehaviour
                 break;
 
             case 1:
-                steps.text = players[0].GetComponent<ScrPlayer>().tTirada.ToString("F0");
-                nomPlayerTirada.text = (" ");
+                if (aniDau.GetComponent<ScrAniDau>().aniAcabada)
+                {
+                    steps.text = players[0].GetComponent<ScrPlayer>().tTirada.ToString("F0");
+                    nomPlayerTirada.text = (" ");
+                }
+                
                 break;
 
             case 2:
-                steps.text = players[1].GetComponent<ScrPlayer>().tTirada.ToString("F0");
-                nomPlayerTirada.text = (" ");
+                if (aniDau.GetComponent<ScrAniDau>().aniAcabada)
+                {
+                    steps.text = players[1].GetComponent<ScrPlayer>().tTirada.ToString("F0");
+                    nomPlayerTirada.text = (" ");
+                }
+                    
                 break;
 
             case 3:
@@ -67,7 +77,8 @@ public class ScrUI : MonoBehaviour
                 steps.text = (" ");
                 nomPlayerTirada.text = (" ");
                 break;
-      //___________________________________________________________________________________
         }
+        //___________________________________________________________________________________
+
     }
 }

@@ -11,13 +11,15 @@ public class ScrPlayer : MonoBehaviour
     ///         habilitats, animacions, característiques...
     /// AUTOR:  Lídia García Romero
     /// DATA:   10/05/2021
-    /// VERSIÓ: 2.1
+    /// VERSIÓ: 2.2
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea el player i es programa el seu moviment i salt.
     ///         1.1: Es comença a programar el moviment per "steps", però encara no funciona.
     ///         2.0: Es canvia el métode. Ara es temps de moviment en comptes de "steps". S'aplica
     ///              i funciona el moviment, però no la gestió de torns.
     ///         2.1: Es perfeccionen aspectes de constrains. Moviment en torns funciona perfecte.
+    ///         2.2: Es perfecciona el moviment del player. No es pot moure fins que 
+    ///             l'animació del dau hagi acabat.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -40,7 +42,7 @@ public class ScrPlayer : MonoBehaviour
     //Pel temps de tirada_________________________________________________________________
     public float tTirada = 2;
     bool haAtacat = false; //perque només pugui atacar una vegada per torn
-    [SerializeField] GameObject controlTorns;
+    [SerializeField] GameObject controlTorns, aniDau;
     //____________________________________________________________________________________
 
 
@@ -69,7 +71,7 @@ public class ScrPlayer : MonoBehaviour
         //____________________________________________________________________________________
 
         //Pel temps de tirada_________________________________________________________________
-        if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && tTirada > 0) //és el teu torn i et pots moure
+        if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && tTirada > 0 && aniDau.GetComponent<ScrAniDau>().aniAcabada) //és el teu torn i et pots moure
         {
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
             tTirada -= Time.deltaTime;

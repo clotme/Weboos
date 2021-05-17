@@ -32,7 +32,8 @@ public class ScrControlGame : MonoBehaviour
     [SerializeField] Text dau, nom;
     public int numTirada;
     [SerializeField] GameObject controlTorns;
-    float tempsDelay = 1f; //el temps que passarà abans d'amagar el dau
+    float tempsDelay = 2f; //el temps que passarà abans d'amagar el dau
+    float tempsAniDau = 1f; //el temps que dura l'animació del dau
     //____________________________________________________________________________________
 
     void Start()
@@ -51,28 +52,35 @@ public class ScrControlGame : MonoBehaviour
         if ((controlTorns.GetComponent<ScrTorns>().tornActual != 1 || controlTorns.GetComponent<ScrTorns>().tornActual != 2) && Input.GetKeyDown(KeyCode.Return)) //quan es presiona ENTER, es calcula els segons de tirada
         {
             dauTxt.SetActive(false);
-            dau.gameObject.SetActive(true);
             nom.gameObject.SetActive(false);
 
-            tempsDelay = 1f; //resetegem el valor del temps del delay
+            tempsDelay = 2f; //resetegem el valor del temps del delay
+            tempsAniDau = 1f;
 
             numTirada = Random.Range(1, 11); //generem un temps de tirada aleatori
             dau.text = numTirada.ToString();
 
             if(controlTorns.GetComponent<ScrTorns>().tornActual == 3) //torn player 2
             {
-                players[1].GetComponent<ScrPlayer>().tTirada = numTirada; //li assignem al player el temps que ha sortit al dau per moure's
+                players[1].GetComponent<ScrPlayer>().tTirada = numTirada + 1; //li assignem al player el temps que ha sortit al dau per moure's (més el temps de l'animació)
                 controlTorns.GetComponent<ScrTorns>().tornActual = 2;
             }
 
             else
             {
-                players[0].GetComponent<ScrPlayer>().tTirada = numTirada; //li assignem al player el temps que ha sortit al dau per moure's
+                players[0].GetComponent<ScrPlayer>().tTirada = numTirada + 1; //li assignem al player el temps que ha sortit al dau per moure's (més el temps de l'animació)
                 controlTorns.GetComponent<ScrTorns>().tornActual = 1; //torn player 1
             }
         }
 
         //Delay del dau_______________________________________________________________________
+        tempsAniDau -= Time.deltaTime;
+
+        if (tempsAniDau < 0)
+        {
+            dau.gameObject.SetActive(true);
+        }
+        
         tempsDelay -= Time.deltaTime;
 
         if (tempsDelay < 0)

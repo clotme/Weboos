@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c021a025aac666a468e5fa2a83c3b25d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6863838277547925504
+    second: weboos_correr_00018.png
+  - first:
+      213: 6680042303799434469
+    second: weboos_correr_00017.png
+  - first:
+      213: -6701780608671662992
+    second: weboos_correr_00009.png
+  - first:
+      213: -7878582332505574744
+    second: weboos_correr_00016.png
+  - first:
+      213: 6344355062269045902
+    second: weboos_correr_00000.png
+  - first:
+      213: 3212184953302494879
+    second: weboos_correr_00008.png
+  - first:
+      213: 2102714926196849135
+    second: weboos_correr_00001.png
+  - first:
+      213: 1983343183732382227
+    second: weboos_correr_00010.png
+  - first:
+      213: 2297755704805833519
+    second: weboos_correr_00011.png
+  - first:
+      213: 6749587674213651079
+    second: weboos_correr_00002.png
+  - first:
+      213: -58010016372580150
+    second: weboos_correr_00007.png
+  - first:
+      213: -279091945062304937
+    second: weboos_correr_00012.png
+  - first:
+      213: -1918713176039769017
+    second: weboos_correr_00006.png
+  - first:
+      213: -944268665592427748
+    second: weboos_correr_00003.png
+  - first:
+      213: 5168836460869932286
+    second: weboos_correr_00015.png
+  - first:
+      213: -8648701644026754520
+    second: weboos_correr_00005.png
+  - first:
+      213: 7000150126435505419
+    second: weboos_correr_00013.png
+  - first:
+      213: 6050303224373103083
+    second: weboos_correr_00004.png
+  - first:
+      213: -1566207502510655646
+    second: weboos_correr_00014.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weboos_correr_00018.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 177
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e607e37fbeb0a0800000000000000
+      internalID: -6863838277547925504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00017.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 139
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1c8a351744bc50800000000000000
+      internalID: 6680042303799434469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00009.png
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 171
+        width: 135
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c36814b0e7ef2a0800000000000000
+      internalID: -6701780608671662992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00016.png
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 162
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a236517c17a9a290800000000000000
+      internalID: -7878582332505574744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00000.png
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 160
+        width: 133
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c6f77b05dab0850800000000000000
+      internalID: 6344355062269045902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00008.png
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 159
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e23763239f39c20800000000000000
+      internalID: 3212184953302494879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00001.png
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 157
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9ffdfa5185e2d10800000000000000
+      internalID: 2102714926196849135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00010.png
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 156
+        width: 135
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a9f0e0e10468b10800000000000000
+      internalID: 1983343183732382227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00011.png
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 151
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b3495b3a443ef10800000000000000
+      internalID: 2297755704805833519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00002.png
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 150
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7821cd59a3a5bad50800000000000000
+      internalID: 6749587674213651079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00007.png
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 150
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a2bc8238e13ff0800000000000000
+      internalID: -58010016372580150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00012.png
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 144
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75373eaca57702cf0800000000000000
+      internalID: -279091945062304937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00006.png
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 142
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb94c388c5f55e0800000000000000
+      internalID: -1918713176039769017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00003.png
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 139
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc4dec6a845e2f0800000000000000
+      internalID: -944268665592427748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00015.png
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 137
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45d3020656bb740800000000000000
+      internalID: 5168836460869932286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00005.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac2737da3a9f780800000000000000
+      internalID: -8648701644026754520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00013.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 52
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05189c9377852160800000000000000
+      internalID: 7000150126435505419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00004.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 41
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9c8280abef6f350800000000000000
+      internalID: 6050303224373103083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_correr_00014.png
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 41
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267fc481396b34ae0800000000000000
+      internalID: -1566207502510655646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

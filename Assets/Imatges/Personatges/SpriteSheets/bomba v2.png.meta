@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: 6c70d8415b1e93d41a420d5fa7248f72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3537025185304175806
+    second: Comp 2_lanzar_granada_00000
+  - first:
+      213: 2829746366354529563
+    second: Comp 2_lanzar_granada_00001
+  - first:
+      213: 1232777046042386684
+    second: Comp 2_lanzar_granada_00002
+  - first:
+      213: 8307093072915562417
+    second: Comp 2_lanzar_granada_00003
+  - first:
+      213: 1555005791898200843
+    second: Comp 2_lanzar_granada_00004
+  - first:
+      213: 3264423645780258509
+    second: Comp 2_lanzar_granada_00005
+  - first:
+      213: -7082088894010230948
+    second: Comp 2_lanzar_granada_00006
+  - first:
+      213: 606423213593608958
+    second: Comp 2_lanzar_granada_00007
+  - first:
+      213: 2176527645235218694
+    second: Comp 2_lanzar_granada_00008
+  - first:
+      213: 5997292270115662271
+    second: Comp 2_lanzar_granada_00009
+  - first:
+      213: -400622190665572880
+    second: Comp 2_lanzar_granada_00010
+  - first:
+      213: 1053716015418252461
+    second: Comp 2_lanzar_granada_00011
+  - first:
+      213: 6281154953120494332
+    second: Comp 2_lanzar_granada_00012
+  - first:
+      213: -6871367741049032846
+    second: Comp 2_lanzar_granada_00013
+  - first:
+      213: 6115304342213471110
+    second: Comp 2_lanzar_granada_00014
+  - first:
+      213: -9044506545591670976
+    second: Comp 2_lanzar_granada_00015
+  - first:
+      213: -8093281727073130938
+    second: Comp 2_lanzar_granada_00016
+  - first:
+      213: 4058729189938106492
+    second: Comp 2_lanzar_granada_00017
+  - first:
+      213: -8422985692456795690
+    second: Comp 2_lanzar_granada_00018
+  - first:
+      213: 4498787833069090100
+    second: Comp 2_lanzar_granada_00019
+  - first:
+      213: 2677376182911048865
+    second: Comp 2_lanzar_granada_00020
+  - first:
+      213: -4080273648101686231
+    second: Comp 2_lanzar_granada_00021
+  - first:
+      213: -2251359928153405268
+    second: Comp 2_lanzar_granada_00022
+  - first:
+      213: -438247601637858819
+    second: Comp 2_lanzar_granada_00023
+  - first:
+      213: 7731018577694509273
+    second: Comp 2_lanzar_granada_00024
+  - first:
+      213: 2222024098200339638
+    second: Comp 2_lanzar_granada_00025
+  - first:
+      213: 1832277356020741452
+    second: Comp 2_lanzar_granada_00026
+  - first:
+      213: 4364788586446287753
+    second: Comp 2_lanzar_granada_00027
+  - first:
+      213: -1786670371002003223
+    second: Comp 2_lanzar_granada_00028
+  - first:
+      213: -8770758444050324537
+    second: Comp 2_lanzar_granada_00029
+  - first:
+      213: 2272594315181426147
+    second: Comp 2_lanzar_granada_00030
+  - first:
+      213: -1379331523100806212
+    second: weboos_sacar_granada_00000
+  - first:
+      213: 2699149299838040468
+    second: weboos_sacar_granada_00001
+  - first:
+      213: 4764982595180498613
+    second: weboos_sacar_granada_00002
+  - first:
+      213: -6547057802826199927
+    second: weboos_sacar_granada_00003
+  - first:
+      213: 152852483827168050
+    second: weboos_sacar_granada_00004
+  - first:
+      213: -4851546411170938021
+    second: weboos_sacar_granada_00005
+  - first:
+      213: -1559898426071098961
+    second: weboos_sacar_granada_00006
+  - first:
+      213: -8713711262173642910
+    second: weboos_sacar_granada_00007
+  - first:
+      213: 1206428772944849154
+    second: weboos_sacar_granada_00008
+  - first:
+      213: 8148177630081028449
+    second: weboos_sacar_granada_00009
+  - first:
+      213: 2578425278541644785
+    second: weboos_sacar_granada_00010
+  - first:
+      213: 4098790730930607895
+    second: weboos_sacar_granada_00011
+  - first:
+      213: 4304088825939393707
+    second: weboos_sacar_granada_00012
+  - first:
+      213: -5869831147926253848
+    second: weboos_sacar_granada_00013
+  - first:
+      213: 3902101100592726274
+    second: weboos_sacar_granada_00014
+  - first:
+      213: -3597785106097882649
+    second: weboos_sacar_granada_00015
+  - first:
+      213: 1657499658948023228
+    second: weboos_sacar_granada_00016
+  - first:
+      213: -5974081792354826448
+    second: weboos_sacar_granada_00017
+  - first:
+      213: -8816775004949600914
+    second: weboos_sacar_granada_00018
+  - first:
+      213: -8343179232568931698
+    second: weboos_sacar_granada_00019
+  - first:
+      213: 633242681288476036
+    second: weboos_sacar_granada_00020
+  - first:
+      213: -2903153984703622745
+    second: weboos_sacar_granada_00021
+  - first:
+      213: 4404281901645234771
+    second: weboos_sacar_granada_00022
+  - first:
+      213: 8010551734704956251
+    second: weboos_sacar_granada_00023
+  - first:
+      213: -5344542046247055503
+    second: weboos_sacar_granada_00024
+  - first:
+      213: -2939890309314896173
+    second: weboos_sacar_granada_00025
+  - first:
+      213: -1142898220633996195
+    second: weboos_sacar_granada_00026
+  - first:
+      213: 6001780390605287375
+    second: weboos_sacar_granada_00027
+  - first:
+      213: -5639168489248052077
+    second: weboos_sacar_granada_00028
+  - first:
+      213: 5116631929908993185
+    second: weboos_sacar_granada_00029
+  - first:
+      213: 9181738765144157535
+    second: weboos_sacar_granada_00030
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00000
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb46aa38aa9061130800000000000000
+      internalID: 3537025185304175806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00001
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d930bd357454720800000000000000
+      internalID: 2829746366354529563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00002
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0ac9c1134bb1110800000000000000
+      internalID: 1232777046042386684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00003
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7d3f0329b84370800000000000000
+      internalID: 8307093072915562417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00004
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b64c9678d749510800000000000000
+      internalID: 1555005791898200843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00005
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce2e1b92009d4d20800000000000000
+      internalID: 3264423645780258509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00006
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f7c46cad57bd90800000000000000
+      internalID: -7082088894010230948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00007
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef24cc523b27a6800800000000000000
+      internalID: 606423213593608958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00008
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60900129c54943e10800000000000000
+      internalID: 2176527645235218694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00009
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a07e6b89aa3350800000000000000
+      internalID: 5997292270115662271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00010
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd5d3c7d34b07af0800000000000000
+      internalID: -400622190665572880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00011
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1529122d8f9e00800000000000000
+      internalID: 1053716015418252461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00012
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2beef96252b2750800000000000000
+      internalID: 6281154953120494332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00013
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa1b1127ff3a0a0800000000000000
+      internalID: -6871367741049032846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00014
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba90326ecedd450800000000000000
+      internalID: 6115304342213471110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00015
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047205577357b7280800000000000000
+      internalID: -9044506545591670976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00016
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64665a63623eeaf80800000000000000
+      internalID: -8093281727073130938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00017
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7015c5b1b0835830800000000000000
+      internalID: 4058729189938106492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00018
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d14aecb32b8b1b80800000000000000
+      internalID: -8422985692456795690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00019
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435bee5d2b7ee6e30800000000000000
+      internalID: 4498787833069090100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00020
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1188f373f72520800000000000000
+      internalID: 2677376182911048865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00021
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924038a3cb4ff57c0800000000000000
+      internalID: -4080273648101686231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00022
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca80ed4d21091c0e0800000000000000
+      internalID: -2251359928153405268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00023
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df165b4d0280be9f0800000000000000
+      internalID: -438247601637858819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00024
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d84d6b8f681a4b60800000000000000
+      internalID: 7731018577694509273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00025
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c69ff42736de10800000000000000
+      internalID: 2222024098200339638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00026
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45bb972c8e8d6910800000000000000
+      internalID: 1832277356020741452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00027
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837fcef718d29c30800000000000000
+      internalID: 4364788586446287753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00028
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0d5b583c87437e0800000000000000
+      internalID: -1786670371002003223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00029
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36f932aa1084680800000000000000
+      internalID: -8770758444050324537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_lanzar_granada_00030
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e506fa2d70e98f10800000000000000
+      internalID: 2272594315181426147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00000
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3f31aa941abdce0800000000000000
+      internalID: -1379331523100806212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00001
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499379cccfd457520800000000000000
+      internalID: 2699149299838040468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00002
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be07a2ac6e902240800000000000000
+      internalID: 4764982595180498613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00003
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c489abd9d2425a0800000000000000
+      internalID: -6547057802826199927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00004
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233fd81368a0f1200800000000000000
+      internalID: 152852483827168050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00005
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53c5de5e38dbacb0800000000000000
+      internalID: -4851546411170938021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00006
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9575c65a02a5ae0800000000000000
+      internalID: -1559898426071098961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00007
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fb1d636cda21780800000000000000
+      internalID: -8713711262173642910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00008
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209203ab3981eb010800000000000000
+      internalID: 1206428772944849154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00009
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16193c73264241170800000000000000
+      internalID: 8148177630081028449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00010
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3cc57312868c320800000000000000
+      internalID: 2578425278541644785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00011
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71758c51474d1e830800000000000000
+      internalID: 4098790730930607895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00012
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac78dfabf13bbb30800000000000000
+      internalID: 4304088825939393707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00013
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0550bbab2a8ea0800000000000000
+      internalID: -5869831147926253848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00014
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2018d7ad64c072630800000000000000
+      internalID: 3902101100592726274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00015
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e938d40289121ec0800000000000000
+      internalID: -3597785106097882649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00016
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb39de2782f900710800000000000000
+      internalID: 1657499658948023228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00017
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037cf8b034cc71da0800000000000000
+      internalID: -5974081792354826448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00018
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65af65a8d584a580800000000000000
+      internalID: -8816775004949600914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00019
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a005921b2173c80800000000000000
+      internalID: -8343179232568931698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00020
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c0d21ddab9c800800000000000000
+      internalID: 633242681288476036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00021
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a11b7d15dce5b7d0800000000000000
+      internalID: -2903153984703622745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00022
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520f3efd072f1d30800000000000000
+      internalID: 4404281901645234771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00023
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b536af96c523b2f60800000000000000
+      internalID: 8010551734704956251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00024
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f0e46535f54d5b0800000000000000
+      internalID: -5344542046247055503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00025
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1ca207596337d0800000000000000
+      internalID: -2939890309314896173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00026
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d544fa8af1c9320f0800000000000000
+      internalID: -1142898220633996195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00027
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 203
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfeee9677b9a4350800000000000000
+      internalID: 6001780390605287375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00028
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 203
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c2bc9f226adb1b0800000000000000
+      internalID: -5639168489248052077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00029
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 203
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac95a491ade10740800000000000000
+      internalID: 5116631929908993185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_sacar_granada_00030
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 203
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5de9dc82c61c6f70800000000000000
+      internalID: 9181738765144157535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

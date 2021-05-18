@@ -1,0 +1,42 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.7
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=caminarv2.png
+:size=4096x512
+:pivotpoints=enabled
+:borders=disabled
+
+weboos_caminar_00000;3;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00001;209;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00002;415;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00003;621;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00004;827;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00005;1033;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00006;1239;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00007;1445;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00008;1651;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00009;1857;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00010;2063;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00011;2269;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00012;2475;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00013;2681;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00014;2887;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00015;3093;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00016;3299;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00017;3505;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00018;3711;309;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00019;3;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00020;209;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00021;415;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00022;621;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00023;827;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00024;1033;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00025;1239;103;200;200; 0.5;0.5; 0;0;0;0
+weboos_caminar_00026;1445;103;200;200; 0.5;0.5; 0;0;0;0

@@ -2,11 +2,26 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Imatges/Personatges/SpriteSheets/bomba v2.tpsheet
+- Assets/Imatges/Personatges/SpriteSheets/caminarv2.tpsheet
+- Assets/Imatges/Personatges/SpriteSheets/idlev2.tpsheet
+- Assets/Imatges/Personatges/SpriteSheets/pistolaV2.tpsheet
+- Assets/Imatges/Personatges/SpriteSheets/saltv2.tpsheet
 - Assets/Imatges/UI/ui_SpriteSheets/UI_dau.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Imatges/Personatges/SpriteSheets/bomba v2.png
+- Assets/Imatges/Personatges/SpriteSheets/caminarv2.png
+- Assets/Imatges/Personatges/SpriteSheets/idlev2.png
+- Assets/Imatges/Personatges/SpriteSheets/pistolaV2.png
+- Assets/Imatges/Personatges/SpriteSheets/saltv2.png
 - Assets/Imatges/UI/ui_SpriteSheets/UI_dau.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
 - 
 enableDebugOutput: 0

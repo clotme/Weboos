@@ -11,7 +11,7 @@ public class ScrPlayer : MonoBehaviour
     ///         habilitats, animacions, característiques...
     /// AUTOR:  Lídia García Romero
     /// DATA:   10/05/2021
-    /// VERSIÓ: 2.2
+    /// VERSIÓ: 3.0
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea el player i es programa el seu moviment i salt.
     ///         1.1: Es comença a programar el moviment per "steps", però encara no funciona.
@@ -20,6 +20,8 @@ public class ScrPlayer : MonoBehaviour
     ///         2.1: Es perfeccionen aspectes de constrains. Moviment en torns funciona perfecte.
     ///         2.2: Es perfecciona el moviment del player. No es pot moure fins que 
     ///             l'animació del dau hagi acabat.
+    ///         3.0: S'afegeix la programació de la màquina d'estats molr bàsica, però jump
+    ///             no funciona.         
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -45,6 +47,10 @@ public class ScrPlayer : MonoBehaviour
     [SerializeField] GameObject controlTorns, aniDau;
     //____________________________________________________________________________________
 
+    //Per la màquina d'estats_____________________________________________________________
+    Animator anim;
+    //____________________________________________________________________________________
+
 
     void Start()
     {
@@ -54,6 +60,10 @@ public class ScrPlayer : MonoBehaviour
 
         //Pel temps de tirada_________________________________________________________________
         rb.constraints = RigidbodyConstraints2D.FreezeAll;
+        //____________________________________________________________________________________
+
+        //Per la màquina d'estats_____________________________________________________________
+        anim = GetComponent<Animator>();
         //____________________________________________________________________________________
     }
 
@@ -103,6 +113,11 @@ public class ScrPlayer : MonoBehaviour
         }
 
         salta = false;
+        //____________________________________________________________________________________
+
+        //Per la màquina d'estats_____________________________________________________________
+        anim.SetFloat("velocitat", Mathf.Abs(moviment));
+        anim.SetBool("tocantTerra", onTerra);
         //____________________________________________________________________________________
     }
 

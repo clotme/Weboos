@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 3e2c5f87308756346b5cb430df59b13f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3779527037411648268
+    second: weboos_disparar_00000
+  - first:
+      213: -681048253808134399
+    second: weboos_disparar_00001
+  - first:
+      213: -170406477528547997
+    second: weboos_disparar_00002
+  - first:
+      213: 2837675402519306840
+    second: weboos_disparar_00003
+  - first:
+      213: -7582901200882701171
+    second: weboos_disparar_00004
+  - first:
+      213: 5260444948488947124
+    second: weboos_disparar_00005
+  - first:
+      213: -2786060986304979870
+    second: weboos_disparar_00006
+  - first:
+      213: -3912624089623891579
+    second: weboos_disparar_00007
+  - first:
+      213: -3317245438587852533
+    second: weboos_disparar_00008
+  - first:
+      213: -2960599489895154239
+    second: weboos_disparar_00009
+  - first:
+      213: -5318115718211626138
+    second: weboos_disparar_00010
+  - first:
+      213: 6767787433799564182
+    second: weboos_disparar_00011
+  - first:
+      213: 6050497460062691004
+    second: weboos_disparar_00012
+  - first:
+      213: -1101866546074495509
+    second: weboos_disparar_00013
+  - first:
+      213: 8068993521910708626
+    second: weboos_disparar_00014
+  - first:
+      213: 5248672314855353456
+    second: weboos_disparar_00015
+  - first:
+      213: -7986209005655001690
+    second: weboos_disparar_00016
+  - first:
+      213: 8611221002895099857
+    second: weboos_disparar_00017
+  - first:
+      213: 6571740362552113908
+    second: weboos_disparar_00018
+  - first:
+      213: -2882495388722075260
+    second: weboos_disparar_00019
+  - first:
+      213: 7215070419902774562
+    second: weboos_disparar_00020
+  - first:
+      213: 8255809914625372881
+    second: weboos_disparar_00021
+  - first:
+      213: 3313556975249130605
+    second: weboos_disparar_00022
+  - first:
+      213: -5698112524058798642
+    second: weboos_disparar_00023
+  - first:
+      213: 5022886983324699542
+    second: weboos_disparar_00024
+  - first:
+      213: -8181193238452296781
+    second: weboos_disparar_00025
+  - first:
+      213: -4878772749591921151
+    second: weboos_disparar_00026
+  - first:
+      213: 6263224608454887125
+    second: weboos_disparar_00027
+  - first:
+      213: -5106112817432446200
+    second: weboos_disparar_00030
+  - first:
+      213: -4468996264747428577
+    second: weboos_disparar_00031
+  - first:
+      213: 7313879891138970498
+    second: weboos_disparar_00032
+  - first:
+      213: -3132080772198696653
+    second: weboos_disparar_00043
+  - first:
+      213: 6290851977465809002
+    second: weboos_disparar_00044
+  - first:
+      213: -808948886740017847
+    second: weboos_disparar_00045
+  - first:
+      213: 1136286821152520468
+    second: weboos_disparar_00046
+  - first:
+      213: 8327596530771401699
+    second: weboos_disparar_00047
+  - first:
+      213: 81013985521903328
+    second: weboos_disparar_00048
+  - first:
+      213: 7856807656920336181
+    second: weboos_disparar_00049
+  - first:
+      213: -3268688761347821902
+    second: weboos_disparar_00050
+  - first:
+      213: -8872058594446769232
+    second: weboos_disparar_00051
+  - first:
+      213: 4962302950221663005
+    second: weboos_disparar_00052
+  - first:
+      213: -6879603238435997914
+    second: weboos_disparar_00053
+  - first:
+      213: -8311755178580294167
+    second: weboos_disparar_00054
+  - first:
+      213: -3135715122635157544
+    second: weboos_disparar_00055
+  - first:
+      213: 5189722987104674713
+    second: weboos_disparar_00056
+  - first:
+      213: 5181667219288864504
+    second: weboos_disparar_00057
+  - first:
+      213: 7888985865356929584
+    second: weboos_disparar_00058
+  - first:
+      213: -2280180391095313133
+    second: weboos_disparar_00029
+  - first:
+      213: 6481346684521421359
+    second: weboos_disparar_00033
+  - first:
+      213: 8037859748353246302
+    second: weboos_disparar_00034
+  - first:
+      213: 8112196825668297885
+    second: weboos_disparar_00035
+  - first:
+      213: 5882887087047808491
+    second: weboos_disparar_00036
+  - first:
+      213: -8754657251205950411
+    second: weboos_disparar_00037
+  - first:
+      213: 8100827292706208007
+    second: weboos_disparar_00038
+  - first:
+      213: 206154935777368054
+    second: weboos_disparar_00039
+  - first:
+      213: -3889514903772004898
+    second: weboos_disparar_00040
+  - first:
+      213: -5420021408272559861
+    second: weboos_disparar_00041
+  - first:
+      213: 7061652782652740429
+    second: weboos_disparar_00042
+  - first:
+      213: 3561461179366194749
+    second: weboos_disparar_00028
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weboos_disparar_00000
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e7e3d0d3937430800000000000000
+      internalID: 3779527037411648268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00001
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107bdd4b83e6c86f0800000000000000
+      internalID: -681048253808134399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00002
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3c77263892adf0800000000000000
+      internalID: -170406477528547997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00003
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e6037eb2716720800000000000000
+      internalID: 2837675402519306840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00004
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce082a88f14c690800000000000000
+      internalID: -7582901200882701171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00005
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b58e234fcad00940800000000000000
+      internalID: 5260444948488947124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00006
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c97bc4b4ce559d0800000000000000
+      internalID: -2786060986304979870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00007
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581f456de1193b9c0800000000000000
+      internalID: -3912624089623891579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00008
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09af2069d6c6f1d0800000000000000
+      internalID: -3317245438587852533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00009
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb89a2376d9e6d0800000000000000
+      internalID: -2960599489895154239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00010
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b139d4ee14236b0800000000000000
+      internalID: -5318115718211626138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00011
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb9f250d20ced50800000000000000
+      internalID: 6767787433799564182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00012
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe907d026fa7f350800000000000000
+      internalID: 6050497460062691004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00013
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d75bd63265b0f0800000000000000
+      internalID: -1101866546074495509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00014
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997a685bd2daff60800000000000000
+      internalID: 8068993521910708626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00015
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c616569a707d840800000000000000
+      internalID: 5248672314855353456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00016
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a578ebd8394b2190800000000000000
+      internalID: -7986209005655001690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00017
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d702ffb0e3318770800000000000000
+      internalID: 8611221002895099857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00018
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf30a8a03833b50800000000000000
+      internalID: 6571740362552113908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00019
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e48057b15ff7d0800000000000000
+      internalID: -2882495388722075260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00020
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dbbbfd154112460800000000000000
+      internalID: 7215070419902774562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00021
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2b46e4067829270800000000000000
+      internalID: 8255809914625372881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00022
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d640eb4538e1cfd20800000000000000
+      internalID: 3313556975249130605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00023
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5554969dc3ce0b0800000000000000
+      internalID: -5698112524058798642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00024
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b80045911e4b540800000000000000
+      internalID: 5022886983324699542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00025
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3293f6810967e80800000000000000
+      internalID: -8181193238452296781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00026
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb7b8780e1b4cb0800000000000000
+      internalID: -4878772749591921151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00027
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6407fe8917be650800000000000000
+      internalID: 6263224608454887125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00030
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bbed522717329b0800000000000000
+      internalID: -5106112817432446200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00031
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f159e21339feaf1c0800000000000000
+      internalID: -4468996264747428577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00032
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830639a20f108560800000000000000
+      internalID: 7313879891138970498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00043
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339f345d12d9884d0800000000000000
+      internalID: -3132080772198696653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00044
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68c96b0b889d4750800000000000000
+      internalID: 6290851977465809002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00045
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dd964064906c4f0800000000000000
+      internalID: -808948886740017847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00046
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419f0c1f7d6e4cf00800000000000000
+      internalID: 1136286821152520468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00047
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb97695ce0919370800000000000000
+      internalID: 8327596530771401699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00048
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e62fd46ac1df1100800000000000000
+      internalID: 81013985521903328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00049
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374e43dfecf80d60800000000000000
+      internalID: 7856807656920336181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00050
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be2d8ac3e843a2d0800000000000000
+      internalID: -3268688761347821902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00051
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b38c8be6bd10e480800000000000000
+      internalID: -8872058594446769232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00052
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc5d7ed34add440800000000000000
+      internalID: 4962302950221663005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00053
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6273569ed4db680a0800000000000000
+      internalID: -6879603238435997914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00054
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e545b0e3b6b6ac80800000000000000
+      internalID: -8311755178580294167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00055
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfc28ea5b3bb74d0800000000000000
+      internalID: -3135715122635157544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00056
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ad097f89950840800000000000000
+      internalID: 5189722987104674713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00057
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6bffdd1eaf8e740800000000000000
+      internalID: 5181667219288864504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00058
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6daec8de4b7d60800000000000000
+      internalID: 7888985865356929584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00029
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dd3f4e30c2b50e0800000000000000
+      internalID: -2280180391095313133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00033
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1e0d487e52f950800000000000000
+      internalID: 6481346684521421359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00034
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54810fcad63c8f60800000000000000
+      internalID: 8037859748353246302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00035
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a20e5800549070800000000000000
+      internalID: 8112196825668297885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00036
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5973503a634a150800000000000000
+      internalID: 5882887087047808491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00037
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534529b3d95318680800000000000000
+      internalID: -8754657251205950411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00038
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709fa80b08beb6070800000000000000
+      internalID: 8100827292706208007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00039
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f714b362d86cd200800000000000000
+      internalID: 206154935777368054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00040
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf4147dcaa50ac0800000000000000
+      internalID: -3889514903772004898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00041
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d6e4ee3738c4b0800000000000000
+      internalID: -5420021408272559861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00042
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435a25aac7000260800000000000000
+      internalID: 7061652782652740429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_disparar_00028
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e377db21adc6130800000000000000
+      internalID: 3561461179366194749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

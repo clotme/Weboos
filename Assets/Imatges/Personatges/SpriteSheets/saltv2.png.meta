@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 2663aa97d47beed42b08b68631b97dea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3498727481510097280
+    second: Comp 2_00000
+  - first:
+      213: 8903638333288955960
+    second: Comp 2_00001
+  - first:
+      213: 1273939287164301617
+    second: Comp 2_00002
+  - first:
+      213: 3695290688610517170
+    second: Comp 2_00003
+  - first:
+      213: 2340526540893938978
+    second: Comp 2_00004
+  - first:
+      213: 2033267811600710518
+    second: Comp 2_00005
+  - first:
+      213: -4916071164889750183
+    second: Comp 2_00006
+  - first:
+      213: -7447415422133400563
+    second: Comp 2_00007
+  - first:
+      213: -5870169943591477420
+    second: Comp 2_00008
+  - first:
+      213: 5779548892352560932
+    second: Comp 2_00009
+  - first:
+      213: -4411300251521792919
+    second: Comp 2_00010
+  - first:
+      213: -5714930422668996370
+    second: Comp 2_00011
+  - first:
+      213: -1864738906367448201
+    second: Comp 2_00012
+  - first:
+      213: 1188265400604553996
+    second: Comp 2_00013
+  - first:
+      213: -5959385345882165940
+    second: Comp 2_00014
+  - first:
+      213: 2059695918545425133
+    second: Comp 2_00015
+  - first:
+      213: 2459863326108066065
+    second: weboos_salto_end_00000
+  - first:
+      213: -2566858133585520860
+    second: weboos_salto_end_00001
+  - first:
+      213: 363835335675391615
+    second: weboos_salto_end_00002
+  - first:
+      213: -7909201678869746503
+    second: weboos_salto_end_00003
+  - first:
+      213: 3445814582008780871
+    second: weboos_salto_end_00004
+  - first:
+      213: -2623376564585097910
+    second: weboos_salto_end_00005
+  - first:
+      213: 1801016812302109108
+    second: weboos_salto_end_00006
+  - first:
+      213: 3252499459275615839
+    second: weboos_salto_end_00007
+  - first:
+      213: 6019517894047584597
+    second: weboos_salto_end_00008
+  - first:
+      213: -3359700764862566429
+    second: weboos_salto_end_00009
+  - first:
+      213: -3584200145275549204
+    second: weboos_salto_end_00010
+  - first:
+      213: -1815945673775835221
+    second: weboos_salto_end_00011
+  - first:
+      213: -1669496552447296666
+    second: weboos_salto_end_00012
+  - first:
+      213: 4944603309943161606
+    second: weboos_salto_end_00013
+  - first:
+      213: -3005254706206596380
+    second: weboos_salto_end_00014
+  - first:
+      213: 50267985707431009
+    second: weboos_salto_end_00015
+  - first:
+      213: 4594282650821749836
+    second: weboos_salto_ini_00000
+  - first:
+      213: -4194449936125921587
+    second: weboos_salto_ini_00001
+  - first:
+      213: -8024653624400944923
+    second: weboos_salto_ini_00002
+  - first:
+      213: 1769963935918362585
+    second: weboos_salto_ini_00003
+  - first:
+      213: -1148257232377027940
+    second: weboos_salto_ini_00004
+  - first:
+      213: 9079725963219762112
+    second: weboos_salto_ini_00005
+  - first:
+      213: 8177744614084117390
+    second: weboos_salto_ini_00006
+  - first:
+      213: -6661196107733552944
+    second: weboos_salto_ini_00007
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Comp 2_00000
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0817e4d7b1afd8030800000000000000
+      internalID: 3498727481510097280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00001
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304d3004e3109b70800000000000000
+      internalID: 8903638333288955960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00002
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b7d43801fda110800000000000000
+      internalID: 1273939287164301617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00003
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b040748d4f484330800000000000000
+      internalID: 3695290688610517170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00004
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2256b510d783b7020800000000000000
+      internalID: 2340526540893938978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00005
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b32bb4d4e973c10800000000000000
+      internalID: 2033267811600710518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00006
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a43e625b96cbb0800000000000000
+      internalID: -4916071164889750183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00007
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c09f4b12775a890800000000000000
+      internalID: -7447415422133400563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00008
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1e0da987f88ea0800000000000000
+      internalID: -5870169943591477420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00009
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f3da2a815153050800000000000000
+      internalID: 5779548892352560932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00010
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c3761bc9e7c2c0800000000000000
+      internalID: -4411300251521792919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00011
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0ddb04f0d70b0b0800000000000000
+      internalID: -5714930422668996370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00012
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b2e1f28dd1f16e0800000000000000
+      internalID: -1864738906367448201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00013
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03fbed06119d7010800000000000000
+      internalID: 1188265400604553996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00014
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d66032a920c4da0800000000000000
+      internalID: -5959385345882165940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comp 2_00015
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d8327682859c10800000000000000
+      internalID: 2059695918545425133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00000
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111aea489a0332220800000000000000
+      internalID: 2459863326108066065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00001
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42710d69020b06cd0800000000000000
+      internalID: -2566858133585520860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00002
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eaaa36f4a9c0500800000000000000
+      internalID: 363835335675391615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00003
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcab025afedc3290800000000000000
+      internalID: -7909201678869746503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00004
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7489e7a0b1ef1df20800000000000000
+      internalID: 3445814582008780871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00005
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4512dbe9e4e79bd0800000000000000
+      internalID: -2623376564585097910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00006
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b906c3af3f7ef810800000000000000
+      internalID: 1801016812302109108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00007
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee5469603332d20800000000000000
+      internalID: 3252499459275615839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00008
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55150d1c1af998350800000000000000
+      internalID: 6019517894047584597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00009
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef22ce64f1ff51d0800000000000000
+      internalID: -3359700764862566429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00010
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce982f035fc524ec0800000000000000
+      internalID: -3584200145275549204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00011
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba71f2fe7077cc6e0800000000000000
+      internalID: -1815945673775835221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00012
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb3ad1bb1c4d8e0800000000000000
+      internalID: -1669496552447296666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00013
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60302644382ce9440800000000000000
+      internalID: 4944603309943161606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00014
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22cf864c03b46d0800000000000000
+      internalID: -3005254706206596380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_end_00015
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1647aa7777692b000800000000000000
+      internalID: 50267985707431009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00000
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c68f7babb22cf30800000000000000
+      internalID: 4594282650821749836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00001
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6fd0991025ac5c0800000000000000
+      internalID: -4194449936125921587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00002
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e7088b04b2a090800000000000000
+      internalID: -8024653624400944923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00003
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8aa172dc209810800000000000000
+      internalID: 1769963935918362585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00004
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92e46181229010f0800000000000000
+      internalID: -1148257232377027940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00005
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 615
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbfa9738aaa10e70800000000000000
+      internalID: 9079725963219762112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00006
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e830952266f2d7170800000000000000
+      internalID: 8177744614084117390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weboos_salto_ini_00007
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 409
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0b35bbe6dae83a0800000000000000
+      internalID: -6661196107733552944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

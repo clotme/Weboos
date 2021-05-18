@@ -1,0 +1,74 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.7
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=pistolaV2.png
+:size=4096x1024
+:pivotpoints=enabled
+:borders=disabled
+
+weboos_disparar_00000;3;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00001;209;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00002;415;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00003;621;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00004;827;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00005;1033;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00006;1239;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00007;1445;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00008;1651;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00009;1857;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00010;2063;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00011;2269;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00012;2475;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00013;2681;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00014;2887;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00015;3093;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00016;3299;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00017;3505;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00018;3711;821;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00019;3;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00020;209;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00021;415;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00022;621;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00023;827;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00024;1033;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00025;1239;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00026;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00027;1651;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00030;1857;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00031;2063;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00032;2269;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00043;2475;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00044;2681;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00045;2887;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00046;3093;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00047;3299;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00048;3505;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00049;3711;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00050;3;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00051;209;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00052;415;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00053;621;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00054;827;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00055;1033;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00056;1239;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00057;1445;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00058;1651;409;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00029;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00033;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00034;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00035;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00036;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00037;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00038;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00039;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00040;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00041;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00042;1445;615;200;200; 0.5;0.5; 0;0;0;0
+weboos_disparar_00028;1651;615;200;200; 0.5;0.5; 0;0;0;0

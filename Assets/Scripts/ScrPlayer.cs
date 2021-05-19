@@ -20,7 +20,7 @@ public class ScrPlayer : MonoBehaviour
     ///         2.1: Es perfeccionen aspectes de constrains. Moviment en torns funciona perfecte.
     ///         2.2: Es perfecciona el moviment del player. No es pot moure fins que 
     ///             l'animació del dau hagi acabat.
-    ///         3.0: S'afegeix la programació de la màquina d'estats molr bàsica, però jump
+    ///         3.0: S'afegeix la programació de la màquina d'estats molt bàsica, però jump
     ///             no funciona.         
     /// ----------------------------------------------------------------------------------
     /// </summary>
@@ -51,6 +51,11 @@ public class ScrPlayer : MonoBehaviour
     Animator anim;
     //____________________________________________________________________________________
 
+    //Per l'aparença del personatge_______________________________________________________
+    [SerializeField] Sprite[] personatges;
+    [SerializeField] SpriteRenderer cap;
+    //____________________________________________________________________________________
+
 
     void Start()
     {
@@ -64,6 +69,11 @@ public class ScrPlayer : MonoBehaviour
 
         //Per la màquina d'estats_____________________________________________________________
         anim = GetComponent<Animator>();
+        //____________________________________________________________________________________
+
+        //Per l'aparença del personatge_______________________________________________________
+        cap = GetComponent<SpriteRenderer>();
+        //cap.sprite = index del SCrMenuSeleccio segons el id del player. caldrá fer un if o switch
         //____________________________________________________________________________________
     }
 

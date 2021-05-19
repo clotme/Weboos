@@ -22,12 +22,14 @@ public class ScrMenuSeleccio : MonoBehaviour
     ///         2.2: Es programa el canvi de nivell (només cap al nivell 1, un prototip)
     /// ----------------------------------------------------------------------------------
     /// </summary>
-    
 
+
+    public GameObject controlSkins;
+    
     //Seleccio de personatges_____________________________________________________________
     [SerializeField] Image playerEscollit1, playerEscollit2;
     [SerializeField] Sprite[] personatges;
-    public int index1, index2 = 0; //s'ha de pòsat aquesta variable al control game
+    //public int index1, index2 = 0; //s'ha de pòsat aquesta variable al control game
 
     bool isSeleccionat1 = false, isSeleccionat2 = false; //determina si la selecció es final
     //____________________________________________________________________________________
@@ -45,8 +47,8 @@ public class ScrMenuSeleccio : MonoBehaviour
     void Update()
     {
         //Seleccio de personatges_____________________________________________________________
-        playerEscollit1.sprite = personatges[index1];
-        playerEscollit2.sprite = personatges[index2];
+        playerEscollit1.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index1];
+        playerEscollit2.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index2];
 
         if(isSeleccionat1 && isSeleccionat2) //els dos players ja han escollit jugador, així que el joc pot començar
         {
@@ -69,27 +71,27 @@ public class ScrMenuSeleccio : MonoBehaviour
     {
         if (direccio == "dreta")
         {
-            if (index1 >= 8) //per evitar un index out of range
+            if (controlSkins.GetComponent<ScrSkin>().index1 >= 8) //per evitar un index out of range
             {
-                index1 = 0;
+                controlSkins.GetComponent<ScrSkin>().index1 = 0;
             }
 
             else
             {
-                index1 += 1;
+                controlSkins.GetComponent<ScrSkin>().index1 += 1;
             }
         }
 
         if (direccio == "esquerra")
         {
-            if (index1 <= 0)
+            if (controlSkins.GetComponent<ScrSkin>().index1 <= 0)
             {
-                index1 = 8;
+                controlSkins.GetComponent<ScrSkin>().index1 = 8;
             }
 
             else
             {
-                index1 -= 1;
+                controlSkins.GetComponent<ScrSkin>().index1 -= 1;
             }
         }
     }
@@ -98,39 +100,39 @@ public class ScrMenuSeleccio : MonoBehaviour
     {
         if (direccio == "dreta")
         {
-            if (index2 >= 8) //per evitar un index out of range
+            if (controlSkins.GetComponent<ScrSkin>().index2 >= 8) //per evitar un index out of range
             {
-                index2 = 0;
+                controlSkins.GetComponent<ScrSkin>().index2 = 0;
             }
 
             else
             {
-                index2 += 1;
+                controlSkins.GetComponent<ScrSkin>().index2 += 1;
             }
         }
 
         if (direccio == "esquerra")
         {
-            if (index2 <= 0)
+            if (controlSkins.GetComponent<ScrSkin>().index2 <= 0)
             {
-                index2 = 8;
+                controlSkins.GetComponent<ScrSkin>().index2 = 8;
             }
 
             else
             {
-                index2 -= 1;
+                controlSkins.GetComponent<ScrSkin>().index2 -= 1;
             }
         }
     }
 
     public void ToggleCanviarPersonatge1(int numPersonatge) //Canviar el personatge des del toggle group
     {
-        index1 = numPersonatge;
+        controlSkins.GetComponent<ScrSkin>().index1 = numPersonatge;
     }
 
     public void ToggleCanviarPersonatge2(int numPersonatge)
     {
-        index2 = numPersonatge;
+        controlSkins.GetComponent<ScrSkin>().index2 = numPersonatge;
     }
 
     public void Seleccionar(int idPlayer)

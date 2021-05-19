@@ -24,10 +24,4 @@ public class ScrTorns : MonoBehaviour
     //3 = torn transició entre 1 - 2
     //4 = torn transició entre 2 - 1
     //5 = fi de joc
-
-
-    void Update()
-    {
-
-    }
 }

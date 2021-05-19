@@ -11,7 +11,7 @@ public class ScrPlayer : MonoBehaviour
     ///         habilitats, animacions, característiques...
     /// AUTOR:  Lídia García Romero
     /// DATA:   10/05/2021
-    /// VERSIÓ: 3.0
+    /// VERSIÓ: 4.0
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea el player i es programa el seu moviment i salt.
     ///         1.1: Es comença a programar el moviment per "steps", però encara no funciona.
@@ -21,7 +21,8 @@ public class ScrPlayer : MonoBehaviour
     ///         2.2: Es perfecciona el moviment del player. No es pot moure fins que 
     ///             l'animació del dau hagi acabat.
     ///         3.0: S'afegeix la programació de la màquina d'estats molt bàsica, però jump
-    ///             no funciona.         
+    ///             no funciona.
+    ///         4.0: S'afegeix el primer prototip de disparar (només animacions)
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -43,6 +44,7 @@ public class ScrPlayer : MonoBehaviour
 
     //Pel temps de tirada_________________________________________________________________
     public float tTirada = 2;
+    public bool isTorn = false;
     bool haAtacat = false; //perque només pugui atacar una vegada per torn
     [SerializeField] GameObject controlTorns, aniDau;
     //____________________________________________________________________________________
@@ -54,6 +56,11 @@ public class ScrPlayer : MonoBehaviour
     //Per l'aparença del personatge_______________________________________________________
     [SerializeField] Sprite[] personatges;
     [SerializeField] SpriteRenderer cap;
+    public GameObject controlSkins;
+    //____________________________________________________________________________________
+
+    //Per disparar________________________________________________________________________
+    bool disBomba, disPistola;
     //____________________________________________________________________________________
 
 
@@ -73,7 +80,18 @@ public class ScrPlayer : MonoBehaviour
 
         //Per l'aparença del personatge_______________________________________________________
         cap = GetComponent<SpriteRenderer>();
-        //cap.sprite = index del SCrMenuSeleccio segons el id del player. caldrá fer un if o switch
+
+        
+
+        switch (playerID)
+        {
+            case 1:
+                cap.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index1];
+                break;
+            case 2:
+                cap.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index2];
+                break;
+        }
         //____________________________________________________________________________________
     }
 
@@ -93,12 +111,14 @@ public class ScrPlayer : MonoBehaviour
         //Pel temps de tirada_________________________________________________________________
         if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && tTirada > 0 && aniDau.GetComponent<ScrAniDau>().aniAcabada) //és el teu torn i et pots moure
         {
+            isTorn = true;
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
             tTirada -= Time.deltaTime;
         }
 
          else if (tTirada < 0) //s'ha acabat el torn i ja no et pots moure
         {
+            isTorn = false;
             rb.constraints = RigidbodyConstraints2D.FreezeAll;
             controlTorns.GetComponent<ScrTorns>().tornActual += 2;
             tTirada = 0;
@@ -128,6 +148,9 @@ public class ScrPlayer : MonoBehaviour
         //Per la màquina d'estats_____________________________________________________________
         anim.SetFloat("velocitat", Mathf.Abs(moviment));
         anim.SetBool("tocantTerra", onTerra);
+        anim.SetBool("isTorn", isTorn);
+        anim.SetBool("bomba", disBomba);
+        anim.SetBool("pistola", disPistola);
         //____________________________________________________________________________________
     }
 
@@ -136,5 +159,36 @@ public class ScrPlayer : MonoBehaviour
     {
         miraDreta = !miraDreta;
         transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z); //fem el flip multiplicant per -1 la escala x 
+    }
+
+
+    public void TirarBomba()
+    {
+        if(controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
+        {
+            disBomba = true;
+
+            haAtacat = true;
+        }        
+    }
+
+    public void DispararPistola()
+    {
+        if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
+        {
+            disPistola = true;
+
+            haAtacat = true;
+        }
+    }
+
+    public void AcabarAniBomba()
+    {
+        disBomba = false;
+    }
+
+    public void AcabarAniPistola()
+    {
+        disPistola = false;
     }
 }

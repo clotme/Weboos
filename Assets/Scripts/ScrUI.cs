@@ -32,6 +32,7 @@ public class ScrUI : MonoBehaviour
 
     void Start()
     {
+
     }
 
 
@@ -50,8 +51,7 @@ public class ScrUI : MonoBehaviour
                 {
                     steps.text = players[0].GetComponent<ScrPlayer>().tTirada.ToString("F0");
                     nomPlayerTirada.text = (" ");
-                }
-                
+                }                
                 break;
 
             case 2:
@@ -59,8 +59,7 @@ public class ScrUI : MonoBehaviour
                 {
                     steps.text = players[1].GetComponent<ScrPlayer>().tTirada.ToString("F0");
                     nomPlayerTirada.text = (" ");
-                }
-                    
+                }                    
                 break;
 
             case 3:

@@ -12,13 +12,14 @@ public class ScrControlGame : MonoBehaviour
     ///         les vides, els torns, les tirades...
     /// AUTOR:  Lídia García Romero
     /// DATA:   12/05/2021
-    /// VERSIÓ: 1.3
+    /// VERSIÓ: 2.0
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea i s'afegeix la funció de tirades (intent que no funciona).
     ///         1.1: Es perfecciona el sistema de torns amb un altre scipt (ScrTorns).
     ///         1.2: S'acaba i funciona perfecte el sistema de torns.
     ///         1.3: Es refina que surti el nom del player quan sigui el seu torn i el
     ///             delay pel dau.
+    ///         2.0: S'afegeix la programació relacionada amb l'aparença del player
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -34,6 +35,10 @@ public class ScrControlGame : MonoBehaviour
     [SerializeField] GameObject controlTorns;
     float tempsDelay = 2f; //el temps que passarà abans d'amagar el dau
     float tempsAniDau = 1f; //el temps que dura l'animació del dau
+    //____________________________________________________________________________________
+
+    //Per canviar l'aparença del personatge_______________________________________________
+    public int index1 = 0, index2 = 0;
     //____________________________________________________________________________________
 
     void Start()
@@ -73,7 +78,7 @@ public class ScrControlGame : MonoBehaviour
             }
         }
 
-        //Delay del dau_______________________________________________________________________
+            //Delay del dau_______________________________________________________________________
         tempsAniDau -= Time.deltaTime;
 
         if (tempsAniDau < 0)
@@ -87,7 +92,7 @@ public class ScrControlGame : MonoBehaviour
         {
             dau.gameObject.SetActive(false);
         }
-        //____________________________________________________________________________________
+            //____________________________________________________________________________________
 
         if (controlTorns.GetComponent<ScrTorns>().tornActual == 3 || controlTorns.GetComponent<ScrTorns>().tornActual == 4)
         {

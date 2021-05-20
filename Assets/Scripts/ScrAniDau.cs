@@ -13,7 +13,7 @@ public class ScrAniDau : MonoBehaviour
     /// VERSIÓ: 1.1
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea la màquina d'estats i funciona correctament.
-    ///         1.1: Es perfecciona amb booleanes la determinació de quan acaba l'animació.
+    ///             1.1: Es perfecciona amb booleanes la determinació de quan acaba l'animació.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 

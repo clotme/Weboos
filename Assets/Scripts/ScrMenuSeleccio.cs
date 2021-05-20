@@ -16,10 +16,10 @@ public class ScrMenuSeleccio : MonoBehaviour
     /// CONTROL DE VERSIONS
     ///         1.0: primera versió on només es programa el so dels botons i el botó back.
     ///         2.0: Es programa el començament de la selecció de personages, i es recorre
-    ///             l'array correctament. Falta per programar la selecció de personatges
-    ///             amb toggle group.
-    ///         2.1: Es programa la selecció des del toggle group i funciona.
-    ///         2.2: Es programa el canvi de nivell (només cap al nivell 1, un prototip)
+    ///         l'array correctament. Falta per programar la selecció de personatges
+    ///         amb toggle group.
+    ///             2.1: Es programa la selecció des del toggle group i funciona.
+    ///             2.2: Es programa el canvi de nivell (només cap al nivell 1, un prototip)
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -29,7 +29,6 @@ public class ScrMenuSeleccio : MonoBehaviour
     //Seleccio de personatges_____________________________________________________________
     [SerializeField] Image playerEscollit1, playerEscollit2;
     [SerializeField] Sprite[] personatges;
-    //public int index1, index2 = 0; //s'ha de pòsat aquesta variable al control game
 
     bool isSeleccionat1 = false, isSeleccionat2 = false; //determina si la selecció es final
     //____________________________________________________________________________________
@@ -38,17 +37,12 @@ public class ScrMenuSeleccio : MonoBehaviour
     string[] nivells = new string[3] {"Nivell1", "Nivell2", "Nivell3"};
     //____________________________________________________________________________________
 
-    void Start()
-    {
-        
-    }
-
 
     void Update()
     {
         //Seleccio de personatges_____________________________________________________________
-        playerEscollit1.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index1];
-        playerEscollit2.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index2];
+        playerEscollit1.sprite = personatges[ScrSkin.index1];
+        playerEscollit2.sprite = personatges[ScrSkin.index2];
 
         if(isSeleccionat1 && isSeleccionat2) //els dos players ja han escollit jugador, així que el joc pot començar
         {
@@ -71,27 +65,27 @@ public class ScrMenuSeleccio : MonoBehaviour
     {
         if (direccio == "dreta")
         {
-            if (controlSkins.GetComponent<ScrSkin>().index1 >= 8) //per evitar un index out of range
+            if (ScrSkin.index1 >= 8) //per evitar un index out of range
             {
-                controlSkins.GetComponent<ScrSkin>().index1 = 0;
+                ScrSkin.index1 = 0;
             }
 
             else
             {
-                controlSkins.GetComponent<ScrSkin>().index1 += 1;
+                ScrSkin.index1 += 1;
             }
         }
 
         if (direccio == "esquerra")
         {
-            if (controlSkins.GetComponent<ScrSkin>().index1 <= 0)
+            if (ScrSkin.index1 <= 0)
             {
-                controlSkins.GetComponent<ScrSkin>().index1 = 8;
+                ScrSkin.index1 = 8;
             }
 
             else
             {
-                controlSkins.GetComponent<ScrSkin>().index1 -= 1;
+                ScrSkin.index1 -= 1;
             }
         }
     }
@@ -100,39 +94,39 @@ public class ScrMenuSeleccio : MonoBehaviour
     {
         if (direccio == "dreta")
         {
-            if (controlSkins.GetComponent<ScrSkin>().index2 >= 8) //per evitar un index out of range
+            if (ScrSkin.index2 >= 8) //per evitar un index out of range
             {
-                controlSkins.GetComponent<ScrSkin>().index2 = 0;
+                ScrSkin.index2 = 0;
             }
 
             else
             {
-                controlSkins.GetComponent<ScrSkin>().index2 += 1;
+                ScrSkin.index2 += 1;
             }
         }
 
         if (direccio == "esquerra")
         {
-            if (controlSkins.GetComponent<ScrSkin>().index2 <= 0)
+            if (ScrSkin.index2 <= 0)
             {
-                controlSkins.GetComponent<ScrSkin>().index2 = 8;
+                ScrSkin.index2 = 8;
             }
 
             else
             {
-                controlSkins.GetComponent<ScrSkin>().index2 -= 1;
+                ScrSkin.index2 -= 1;
             }
         }
     }
 
     public void ToggleCanviarPersonatge1(int numPersonatge) //Canviar el personatge des del toggle group
     {
-        controlSkins.GetComponent<ScrSkin>().index1 = numPersonatge;
+        ScrSkin.index1 = numPersonatge;
     }
 
     public void ToggleCanviarPersonatge2(int numPersonatge)
     {
-        controlSkins.GetComponent<ScrSkin>().index2 = numPersonatge;
+        ScrSkin.index2 = numPersonatge;
     }
 
     public void Seleccionar(int idPlayer)

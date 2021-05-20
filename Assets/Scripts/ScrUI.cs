@@ -15,9 +15,9 @@ public class ScrUI : MonoBehaviour
     /// VERSIÓ: 1.2
     /// CONTROL DE VERSIONS
     ///         1.0: Únicament es crea l'script per gestionar la variable steps, ja que ajuda
-    ///             amb la programació del moviment del player.
-    ///         1.1: Es refina que surti el nom del player quan sigui el seu torn.
-    ///         1.2: Es perfecciona i s'adapta el vinculament dels steps.
+    ///         amb la programació del moviment del player.
+    ///             1.1: Es refina que surti el nom del player quan sigui el seu torn.
+    ///             1.2: Es perfecciona i s'adapta el vinculament dels steps.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 

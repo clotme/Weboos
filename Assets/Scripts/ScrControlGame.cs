@@ -15,9 +15,9 @@ public class ScrControlGame : MonoBehaviour
     /// VERSIÓ: 2.0
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea i s'afegeix la funció de tirades (intent que no funciona).
-    ///         1.1: Es perfecciona el sistema de torns amb un altre scipt (ScrTorns).
-    ///         1.2: S'acaba i funciona perfecte el sistema de torns.
-    ///         1.3: Es refina que surti el nom del player quan sigui el seu torn i el
+    ///             1.1: Es perfecciona el sistema de torns amb un altre scipt (ScrTorns).
+    ///             1.2: S'acaba i funciona perfecte el sistema de torns.
+    ///             1.3: Es refina que surti el nom del player quan sigui el seu torn i el
     ///             delay pel dau.
     ///         2.0: S'afegeix la programació relacionada amb l'aparença del player
     /// ----------------------------------------------------------------------------------

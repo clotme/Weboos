@@ -6,6 +6,7 @@ TagManager:
   tags:
   - plataforma
   - Pinchos
+  - cap
   layers:
   - Default
   - TransparentFX

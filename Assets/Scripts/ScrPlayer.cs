@@ -14,11 +14,11 @@ public class ScrPlayer : MonoBehaviour
     /// VERSIÓ: 4.0
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea el player i es programa el seu moviment i salt.
-    ///         1.1: Es comença a programar el moviment per "steps", però encara no funciona.
+    ///             1.1: Es comença a programar el moviment per "steps", però encara no funciona.
     ///         2.0: Es canvia el métode. Ara es temps de moviment en comptes de "steps". S'aplica
     ///              i funciona el moviment, però no la gestió de torns.
-    ///         2.1: Es perfeccionen aspectes de constrains. Moviment en torns funciona perfecte.
-    ///         2.2: Es perfecciona el moviment del player. No es pot moure fins que 
+    ///             2.1: Es perfeccionen aspectes de constrains. Moviment en torns funciona perfecte.
+    ///             2.2: Es perfecciona el moviment del player. No es pot moure fins que 
     ///             l'animació del dau hagi acabat.
     ///         3.0: S'afegeix la programació de la màquina d'estats molt bàsica, però jump
     ///             no funciona.
@@ -56,7 +56,7 @@ public class ScrPlayer : MonoBehaviour
     //Per l'aparença del personatge_______________________________________________________
     [SerializeField] Sprite[] personatges;
     [SerializeField] SpriteRenderer cap;
-    public GameObject controlSkins;
+    ScrSkin ScrSkin;
     //____________________________________________________________________________________
 
     //Per disparar________________________________________________________________________
@@ -81,17 +81,7 @@ public class ScrPlayer : MonoBehaviour
         //Per l'aparença del personatge_______________________________________________________
         cap = GetComponent<SpriteRenderer>();
 
-        
-
-        switch (playerID)
-        {
-            case 1:
-                cap.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index1];
-                break;
-            case 2:
-                cap.sprite = personatges[controlSkins.GetComponent<ScrSkin>().index2];
-                break;
-        }
+        ScrSkin.GetComponent<ScrSkin>().CanviarSkin(playerID, cap);
         //____________________________________________________________________________________
     }
 

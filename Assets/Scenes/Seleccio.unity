@@ -5446,6 +5446,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 4cb4f3292d0c9004daca95a3d98308b9, type: 3}
   - {fileID: 21300000, guid: 85e829e5abaf04f4ba04ab56be8c7284, type: 3}
   - {fileID: 21300000, guid: b1dfe83d07ae43543ae4ad6af2749420, type: 3}
+  caixaPlayer1: {fileID: 1455183237}
+  caixaPlayer2: {fileID: 1114420805}
 --- !u!1 &795370930
 GameObject:
   m_ObjectHideFlags: 0

@@ -11,7 +11,7 @@ public class ScrPlayer : MonoBehaviour
     ///         habilitats, animacions, característiques...
     /// AUTOR:  Lídia García Romero
     /// DATA:   10/05/2021
-    /// VERSIÓ: 4.0
+    /// VERSIÓ: 5.0
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea el player i es programa el seu moviment i salt.
     ///             1.1: Es comença a programar el moviment per "steps", però encara no funciona.
@@ -23,6 +23,7 @@ public class ScrPlayer : MonoBehaviour
     ///         3.0: S'afegeix la programació de la màquina d'estats molt bàsica, però jump
     ///             no funciona.
     ///         4.0: S'afegeix el primer prototip de disparar (només animacions)
+    ///         5.0: Es comença a programar la vida.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -65,6 +66,9 @@ public class ScrPlayer : MonoBehaviour
     [SerializeField] AudioSource soBomba, soPistola;
     //____________________________________________________________________________________
 
+    //Per la vida_________________________________________________________________________
+    public float vida = 30f; //valor de vida inicial
+    //____________________________________________________________________________________
 
     void Start()
     {

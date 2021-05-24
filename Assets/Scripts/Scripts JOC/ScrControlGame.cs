@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class ScrControlGame : MonoBehaviour
@@ -39,6 +40,10 @@ public class ScrControlGame : MonoBehaviour
 
     //Per canviar l'aparença del personatge_______________________________________________
     public int index1 = 0, index2 = 0;
+    //____________________________________________________________________________________
+
+    //Per les tecles màgiques_____________________________________________________________
+    bool isMuted = false;
     //____________________________________________________________________________________
 
     void Start()
@@ -101,5 +106,32 @@ public class ScrControlGame : MonoBehaviour
             nom.gameObject.SetActive(true);
         }
         //____________________________________________________________________________________
+
+        //Tecles magiques_____________________________________________________________________
+        if (Input.GetKeyDown(KeyCode.KeypadPlus)) //sumar 10 punts de vida als dos personatges
+        {
+            for(int i = 0; i < players.Length; i++)
+            {
+                players[i].GetComponent<ScrPlayer>().vida += 10;
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.KeypadMinus)) //restar 10 punts de vida als dos personatges
+        {
+            for (int i = 0; i < players.Length; i++)
+            {
+                players[i].GetComponent<ScrPlayer>().vida -= 10;
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.M)) isMuted = !isMuted; //mutejar
+        if (isMuted) AudioListener.volume = 0;
+        else AudioListener.volume = 1;
+
+        if (Input.GetKeyDown(KeyCode.Keypad1)) SceneManager.LoadScene("Nivell1"); //Canviar de nivell
+        if (Input.GetKeyDown(KeyCode.Keypad2)) SceneManager.LoadScene("Nivell2"); //Canviar de nivell
+        if (Input.GetKeyDown(KeyCode.Keypad3)) SceneManager.LoadScene("Nivell3"); //Canviar de nivell
+        //____________________________________________________________________________________
+
     } 
 }

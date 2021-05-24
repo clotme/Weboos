@@ -11,19 +11,21 @@ public class ScrPausa : MonoBehaviour
     ///         Script utilitzat per programar la pausa del joc i els seus botons.
     /// AUTOR:  Lidia Garcia Romero
     /// DATA:   23/06/2021
-    /// VERSIÓ: 1.1
+    /// VERSIÓ: 1.2
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea l'Script més sencill.
     ///             1.1: Es creen més funcions pels botons
+    ///             1.2: Es modifica el boto d'instruccions i tornar al menu
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
-    bool isPausa = false; //determinarà si el joc està en pausa o no
     [SerializeField] AudioSource musica;
+    [SerializeField] Canvas canvasInstruccions;
     
     void Start()
     {
         gameObject.SetActive(false); //el joc començarà no pausat
+        canvasInstruccions.gameObject.SetActive(false);
 
         musica = GetComponent<AudioSource>();
     }
@@ -50,10 +52,22 @@ public class ScrPausa : MonoBehaviour
 
     public void TornarMenu()
     {
-        isPausa = false;
         Time.timeScale = 1;
         musica.Stop();
 
         SceneManager.LoadScene("Inici");
+    }
+
+    public void setInstruccions(bool estat)
+    {
+        if (estat)
+        {
+            canvasInstruccions.gameObject.SetActive(true);
+        }
+        else
+        {
+            canvasInstruccions.gameObject.SetActive(false);
+
+        }
     }
 }

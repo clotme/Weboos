@@ -25,18 +25,26 @@ public class ScrMenuSeleccio : MonoBehaviour
 
 
     public GameObject controlSkins;
+    ScrControlGame controlGame;
     
     //Seleccio de personatges_____________________________________________________________
     [SerializeField] Image playerEscollit1, playerEscollit2;
     [SerializeField] Sprite[] personatges;
 
     bool isSeleccionat1 = false, isSeleccionat2 = false; //determina si la selecció es final
+
+    [SerializeField] InputField caixaPlayer1, caixaPlayer2;
     //____________________________________________________________________________________
 
     //Canvi de nivell_____________________________________________________________________
     string[] nivells = new string[3] {"Nivell1", "Nivell2", "Nivell3"};
     //____________________________________________________________________________________
 
+
+    private void Start()
+    {
+        controlGame = GetComponent<ScrControlGame>();
+    }
 
     void Update()
     {
@@ -45,7 +53,9 @@ public class ScrMenuSeleccio : MonoBehaviour
         playerEscollit2.sprite = personatges[ScrSkin.index2];
 
         if(isSeleccionat1 && isSeleccionat2) //els dos players ja han escollit jugador, així que el joc pot començar
-        {            
+        {
+            controlGame.nomPlayer1 = caixaPlayer1.text;
+            controlGame.nomPlayer2 = caixaPlayer2.text;
             SceneManager.LoadScene(nivells[0]);
         }
         //____________________________________________________________________________________

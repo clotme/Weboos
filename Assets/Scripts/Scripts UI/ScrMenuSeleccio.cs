@@ -45,11 +45,11 @@ public class ScrMenuSeleccio : MonoBehaviour
         playerEscollit2.sprite = personatges[ScrSkin.index2];
 
         if(isSeleccionat1 && isSeleccionat2) //els dos players ja han escollit jugador, així que el joc pot començar
-        {
+        {            
             SceneManager.LoadScene(nivells[0]);
-        }    
+        }
         //____________________________________________________________________________________
-}
+    }
 
     public void ReproduirSo(AudioSource so)
     {

@@ -30,7 +30,7 @@ public class ScrSkin : MonoBehaviour
 
     private void Update()
     {
-        print("Player 1 - " + index1 + " Player 2 - " + index2);
+        //print("Player 1 - " + index1 + " Player 2 - " + index2);
     }
 
     public void CanviarSkin(int playerID, SpriteRenderer cap)

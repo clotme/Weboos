@@ -60,7 +60,9 @@ public class ScrPlayer : MonoBehaviour
     //____________________________________________________________________________________
 
     //Per disparar________________________________________________________________________
-    bool disBomba, disPistola;
+    bool disBomba, disPistola; //per la màquina d'estats
+
+    [SerializeField] AudioSource soBomba, soPistola;
     //____________________________________________________________________________________
 
 
@@ -81,7 +83,7 @@ public class ScrPlayer : MonoBehaviour
         //Per l'aparença del personatge_______________________________________________________
         cap = GetComponent<SpriteRenderer>();
 
-        ScrSkin.GetComponent<ScrSkin>().CanviarSkin(playerID, cap);
+        cap.sprite = personatges[ScrSkin.index1];
         //____________________________________________________________________________________
     }
 
@@ -158,6 +160,8 @@ public class ScrPlayer : MonoBehaviour
         {
             disBomba = true;
 
+            soBomba.Play();
+
             haAtacat = true;
         }        
     }
@@ -167,6 +171,8 @@ public class ScrPlayer : MonoBehaviour
         if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
             disPistola = true;
+
+            soPistola.Play();
 
             haAtacat = true;
         }

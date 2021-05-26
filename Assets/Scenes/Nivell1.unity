@@ -2755,8 +2755,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98f497db6ace23a44b228fb8ac166a67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomPlayer1: Player 1
-  nomPlayer2: Player 2
   players:
   - {fileID: 663589223}
   - {fileID: 410147792}
@@ -6393,6 +6391,8 @@ MonoBehaviour:
   aniDau: {fileID: 1337093478}
   barraVida1: {fileID: 1794530308}
   barraVida2: {fileID: 1720802011}
+  nomPlayer1: {fileID: 1749914054}
+  nomPlayer2: {fileID: 349815973}
 --- !u!1 &1775499815
 GameObject:
   m_ObjectHideFlags: 0

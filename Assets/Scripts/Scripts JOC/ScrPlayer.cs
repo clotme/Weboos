@@ -85,8 +85,6 @@ public class ScrPlayer : MonoBehaviour
         //____________________________________________________________________________________
 
         //Per l'aparença del personatge_______________________________________________________
-        cap = GetComponent<SpriteRenderer>();
-
         cap.sprite = personatges[ScrSkin.index1];
         //____________________________________________________________________________________
     }

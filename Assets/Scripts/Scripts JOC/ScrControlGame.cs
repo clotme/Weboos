@@ -25,7 +25,7 @@ public class ScrControlGame : MonoBehaviour
     /// </summary>
 
     //Per gestió dels jugadors____________________________________________________________
-    public string nomPlayer1, nomPlayer2; 
+    public static string nomPlayer1, nomPlayer2; 
     [SerializeField] GameObject[] players;
     //____________________________________________________________________________________
 

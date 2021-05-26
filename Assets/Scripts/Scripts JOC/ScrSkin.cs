@@ -28,11 +28,6 @@ public class ScrSkin : MonoBehaviour
         DontDestroyOnLoad(this.gameObject);
     }
 
-    private void Update()
-    {
-        //print("Player 1 - " + index1 + " Player 2 - " + index2);
-    }
-
     public void CanviarSkin(int playerID, SpriteRenderer cap)
     {
         print("hola");

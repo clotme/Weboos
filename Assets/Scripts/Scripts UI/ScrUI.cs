@@ -42,8 +42,8 @@ public class ScrUI : MonoBehaviour
     private void Start()
     {
         //Pel nom del jugador________________________________________________________________
-        nomPlayer1.text = controlGame.GetComponent<ScrControlGame>().nomPlayer1;
-        nomPlayer2.text = controlGame.GetComponent<ScrControlGame>().nomPlayer2;
+        nomPlayer1.text = ScrControlGame.nomPlayer1;
+        nomPlayer2.text = ScrControlGame.nomPlayer2;
         //___________________________________________________________________________________
     }
 
@@ -54,7 +54,7 @@ public class ScrUI : MonoBehaviour
         {
             case 0:
                 steps.text = (" ");
-                nomPlayerTirada.text = controlGame.GetComponent<ScrControlGame>().nomPlayer1;
+                nomPlayerTirada.text = ScrControlGame.nomPlayer1;
                 break;
 
             case 1:
@@ -75,12 +75,12 @@ public class ScrUI : MonoBehaviour
 
             case 3:
                 steps.text = (" ");
-                nomPlayerTirada.text = controlGame.GetComponent<ScrControlGame>().nomPlayer2;
+                nomPlayerTirada.text = ScrControlGame.nomPlayer2;
                 break;
 
             case 4:
                 steps.text = (" ");
-                nomPlayerTirada.text = controlGame.GetComponent<ScrControlGame>().nomPlayer1;
+                nomPlayerTirada.text = ScrControlGame.nomPlayer1;
                 break;
 
             case 5:

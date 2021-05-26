@@ -25,7 +25,7 @@ public class ScrMenuSeleccio : MonoBehaviour
 
 
     public GameObject controlSkins;
-    ScrControlGame controlGame;
+    // ScrControlGame controlGame;
     
     //Seleccio de personatges_____________________________________________________________
     [SerializeField] Image playerEscollit1, playerEscollit2;
@@ -41,11 +41,6 @@ public class ScrMenuSeleccio : MonoBehaviour
     //____________________________________________________________________________________
 
 
-    private void Start()
-    {
-        controlGame = GetComponent<ScrControlGame>();
-    }
-
     void Update()
     {
         //Seleccio de personatges_____________________________________________________________
@@ -54,8 +49,8 @@ public class ScrMenuSeleccio : MonoBehaviour
 
         if(isSeleccionat1 && isSeleccionat2) //els dos players ja han escollit jugador, així que el joc pot començar
         {
-            controlGame.nomPlayer1 = caixaPlayer1.text;
-            controlGame.nomPlayer2 = caixaPlayer2.text;
+            ScrControlGame.nomPlayer1 = caixaPlayer1.text;
+            ScrControlGame.nomPlayer2 = caixaPlayer2.text;
             SceneManager.LoadScene(nivells[0]);
         }
         //____________________________________________________________________________________

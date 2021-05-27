@@ -160,9 +160,7 @@ public class ScrPlayer : MonoBehaviour
     {
         if(controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
-            disBomba = true;
-
-            soBomba.Play();
+            //soBomba.Play();
 
             haAtacat = true;
         }        
@@ -172,7 +170,6 @@ public class ScrPlayer : MonoBehaviour
     {
         if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
-            disPistola = true;
 
             soPistola.Play();
 
@@ -188,5 +185,27 @@ public class ScrPlayer : MonoBehaviour
     public void AcabarAniPistola()
     {
         disPistola = false;
+    }
+
+    public void SetPistola(bool estat)
+    {
+        if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
+        {
+            if (estat)
+            {
+                disPistola = true;
+            }
+        }        
+    }
+
+    public void SetBomba(bool estat)
+    {
+        if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
+        {
+            if (estat)
+            {
+                disBomba = true;
+            }
+        }
     }
 }

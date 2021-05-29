@@ -305,7 +305,7 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 2.28
+  - time: 2.32
     functionName: AcabarAniPistola
     data: 
     objectReferenceParameter: {fileID: 0}

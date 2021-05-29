@@ -2,32 +2,25 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScrBomba : MonoBehaviour
+public class ScrPinchos : MonoBehaviour
 {
     /// <summary>
     /// ----------------------------------------------------------------------------------
     /// DESCRIPCIÓ
-    ///         Script utilitzat per programar el moviment de la bomba
+    ///         Script utilitzat per treure vida als players si cauen a sobre de pinxos.
     /// AUTOR:  Lídia García Romero
     /// DATA:   19/05/2021
     /// VERSIÓ: 1.0
     /// CONTROL DE VERSIONS
-    ///         1.0: Es crea l'script. 
+    ///         1.0: es crea l'script i funciona perfectament.
     /// ----------------------------------------------------------------------------------
     /// </summary>
-    /// 
 
-    public float velocitatX = 300, fY = 30000;
-    public Rigidbody2D rb;
-
-    void Start()
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        gameObject.GetComponent<Rigidbody2D>();
-    }
-
-
-    void Update()
-    {
-        rb.velocity = new Vector2(velocitatX, rb.velocity.y);
+        if(collision.tag == "Player")
+        {
+            collision.GetComponent<ScrPlayer>().vida -= 5;
+        }
     }
 }

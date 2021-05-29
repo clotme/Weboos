@@ -11,7 +11,7 @@ public class ScrPlayer : MonoBehaviour
     ///         habilitats, animacions, característiques...
     /// AUTOR:  Lídia García Romero
     /// DATA:   10/05/2021
-    /// VERSIÓ: 5.0
+    /// VERSIÓ: 6.1
     /// CONTROL DE VERSIONS
     ///         1.0: Es crea el player i es programa el seu moviment i salt.
     ///             1.1: Es comença a programar el moviment per "steps", però encara no funciona.
@@ -24,6 +24,8 @@ public class ScrPlayer : MonoBehaviour
     ///             no funciona.
     ///         4.0: S'afegeix el primer prototip de disparar (només animacions)
     ///         5.0: Es comença a programar la vida.
+    ///         6.0: Es comença a programar la bomba i bala
+    ///             6.1: s'acaba de programar la bala de la pistola, que funciona perfecta.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -66,6 +68,7 @@ public class ScrPlayer : MonoBehaviour
     [SerializeField] AudioSource soBomba, soPistola;
 
     [SerializeField] GameObject bomba, bala;
+    [SerializeField] Transform cano;
     //____________________________________________________________________________________
 
     //Per la vida_________________________________________________________________________
@@ -118,6 +121,8 @@ public class ScrPlayer : MonoBehaviour
             rb.constraints = RigidbodyConstraints2D.FreezeAll;
             controlTorns.GetComponent<ScrTorns>().tornActual += 2;
             tTirada = 0;
+
+            haAtacat = false;
         }
         //____________________________________________________________________________________
     }
@@ -162,8 +167,9 @@ public class ScrPlayer : MonoBehaviour
     {
         if(controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
-            //soBomba.Play();
-
+            Instantiate(bomba, cano.position, cano.rotation);
+            bomba.GetComponent<ScrBomba>().rb.AddForce(new Vector2(0, bomba.GetComponent<ScrBomba>().fY));
+            
             haAtacat = true;
         }        
     }
@@ -172,6 +178,17 @@ public class ScrPlayer : MonoBehaviour
     {
         if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
+            if (!miraDreta && bala.GetComponent<ScrBala>().velocitat > 0) //si mira cap a l'esquella però la velocitat de la bala és negativa
+            {
+                bala.GetComponent<ScrBala>().velocitat *= -1;
+            }
+
+            if (miraDreta && bala.GetComponent<ScrBala>().velocitat < 0) //si mira cap a la dreta però la velocitat de la bala és positiva
+            {
+                bala.GetComponent<ScrBala>().velocitat *= -1;
+            }
+            
+            Instantiate(bala, cano.position, cano.rotation);
 
             soPistola.Play();
 

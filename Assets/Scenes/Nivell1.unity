@@ -2139,6 +2139,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 587434073}
   m_CullTransparentMesh: 0
+--- !u!4 &629292007 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4834892779327170279, guid: 5404b4273940b00428f43f8f3e5cc377,
+    type: 3}
+  m_PrefabInstance: {fileID: 7582865157397893027}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &642987437
 GameObject:
   m_ObjectHideFlags: 0
@@ -2288,6 +2294,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643855856}
   m_CullTransparentMesh: 0
+--- !u!4 &657641762 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4834892779327170279, guid: 5404b4273940b00428f43f8f3e5cc377,
+    type: 3}
+  m_PrefabInstance: {fileID: 857522343}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &663589223 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 771152719932205135, guid: 5404b4273940b00428f43f8f3e5cc377,
@@ -2847,6 +2859,23 @@ PrefabInstance:
       propertyPath: aniDau
       value: 
       objectReference: {fileID: 1337093478}
+    - target: {fileID: 6035655702596078294, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: bala
+      value: 
+      objectReference: {fileID: 9196740305348705175, guid: 446ab85cbf5ac1e408641c74baeaf0c2,
+        type: 3}
+    - target: {fileID: 6035655702596078294, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: bomba
+      value: 
+      objectReference: {fileID: 307317980306254966, guid: f8dac4ef464c31944adc593cf798689c,
+        type: 3}
+    - target: {fileID: 6035655702596078294, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: cano
+      value: 
+      objectReference: {fileID: 657641762}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5404b4273940b00428f43f8f3e5cc377, type: 3}
 --- !u!1 &868099867
@@ -7645,6 +7674,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 542254233835508506, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 667833412254771923, guid: 5404b4273940b00428f43f8f3e5cc377,
         type: 3}
       propertyPath: m_PlayOnAwake
@@ -7785,6 +7819,23 @@ PrefabInstance:
       propertyPath: playerID
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6035655702596078294, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: bomba
+      value: 
+      objectReference: {fileID: 307317980306254966, guid: f8dac4ef464c31944adc593cf798689c,
+        type: 3}
+    - target: {fileID: 6035655702596078294, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: bala
+      value: 
+      objectReference: {fileID: 9196740305348705175, guid: 446ab85cbf5ac1e408641c74baeaf0c2,
+        type: 3}
+    - target: {fileID: 6035655702596078294, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: cano
+      value: 
+      objectReference: {fileID: 629292007}
     - target: {fileID: 6803105409792984833, guid: 5404b4273940b00428f43f8f3e5cc377,
         type: 3}
       propertyPath: m_Color.r
@@ -7799,6 +7850,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.b
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6803105409792984833, guid: 5404b4273940b00428f43f8f3e5cc377,
+        type: 3}
+      propertyPath: m_FlipX
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5404b4273940b00428f43f8f3e5cc377, type: 3}

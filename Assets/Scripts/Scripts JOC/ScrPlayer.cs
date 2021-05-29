@@ -64,6 +64,8 @@ public class ScrPlayer : MonoBehaviour
     bool disBomba, disPistola; //per la màquina d'estats
 
     [SerializeField] AudioSource soBomba, soPistola;
+
+    [SerializeField] GameObject bomba, bala;
     //____________________________________________________________________________________
 
     //Per la vida_________________________________________________________________________

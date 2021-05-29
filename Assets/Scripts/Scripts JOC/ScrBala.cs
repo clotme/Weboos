@@ -36,6 +36,7 @@ public class ScrBala : MonoBehaviour
         if(collision.tag == "Player")
         {
             collision.GetComponent<ScrPlayer>().vida -= 10;
+            Destroy(gameObject);
         }
     }
 }

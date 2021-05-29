@@ -90,8 +90,16 @@ public class ScrPlayer : MonoBehaviour
         //____________________________________________________________________________________
 
         //Per l'aparença del personatge_______________________________________________________
-        cap.sprite = personatges[ScrSkin.index1];
-        //____________________________________________________________________________________
+        switch (playerID)
+        {
+            case 1:
+                cap.sprite = personatges[ScrSkin.index1];
+                break;
+            case 2:
+                cap.sprite = personatges[ScrSkin.index2];
+                break;
+        }
+         //____________________________________________________________________________________
     }
 
 
@@ -167,8 +175,17 @@ public class ScrPlayer : MonoBehaviour
     {
         if(controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
-            Instantiate(bomba, cano.position, cano.rotation);
-            bomba.GetComponent<ScrBomba>().rb.AddForce(new Vector2(0, bomba.GetComponent<ScrBomba>().fY));
+            if (!miraDreta && bomba.GetComponent<ScrBomba>().velocitatX > 0) //si mira cap a l'esquerra però la velocitat de la bomba és negativa
+            {
+                bomba.GetComponent<ScrBomba>().velocitatX *= -1;
+            }
+
+            if (miraDreta && bomba.GetComponent<ScrBomba>().velocitatX < 0) //si mira cap a la dreta però la velocitat de la bomba és positiva
+            {
+                bomba.GetComponent<ScrBomba>().velocitatX *= -1;
+            }
+
+            Instantiate(bomba, cano.position, cano.rotation);           
             
             haAtacat = true;
         }        
@@ -178,7 +195,7 @@ public class ScrPlayer : MonoBehaviour
     {
         if (controlTorns.GetComponent<ScrTorns>().tornActual == playerID && haAtacat == false)
         {
-            if (!miraDreta && bala.GetComponent<ScrBala>().velocitat > 0) //si mira cap a l'esquella però la velocitat de la bala és negativa
+            if (!miraDreta && bala.GetComponent<ScrBala>().velocitat > 0) //si mira cap a l'esquerra però la velocitat de la bala és negativa
             {
                 bala.GetComponent<ScrBala>().velocitat *= -1;
             }
@@ -225,6 +242,14 @@ public class ScrPlayer : MonoBehaviour
             {
                 disBomba = true;
             }
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "bomba")
+        {
+            soBomba.Play();
         }
     }
 }

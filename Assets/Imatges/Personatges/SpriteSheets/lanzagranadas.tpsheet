@@ -1,0 +1,46 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.7
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=lanzagranadas.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+Lanzagranadas_00000;3;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00001;3;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00002;3;409;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00003;3;203;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00004;209;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00005;209;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00006;209;409;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00007;209;203;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00008;415;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00009;415;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00010;415;409;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00011;415;203;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00012;621;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00013;621;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00014;621;409;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00015;621;203;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00016;827;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00017;827;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00018;827;409;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00019;827;203;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00020;1033;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00021;1239;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00022;1445;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00023;1651;821;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00024;1033;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00025;1033;409;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00026;1033;203;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00027;1239;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00028;1445;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00029;1651;615;200;200; 0.5;0.5; 0;0;0;0
+Lanzagranadas_00030;1239;409;200;200; 0.5;0.5; 0;0;0;0

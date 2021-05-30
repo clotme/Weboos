@@ -46,7 +46,7 @@ public class ScrMenuInicial : MonoBehaviour
 
     public void AnarWeb()
     {
-        Application.OpenURL("https://www.emav.com/");
+        Application.OpenURL("https://weboosgame.wordpress.com/");
     }
 
     public void SetInformacio(bool estat)

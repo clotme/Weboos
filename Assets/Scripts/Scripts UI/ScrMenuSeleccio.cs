@@ -51,7 +51,7 @@ public class ScrMenuSeleccio : MonoBehaviour
         {
             ScrControlGame.nomPlayer1 = caixaPlayer1.text;
             ScrControlGame.nomPlayer2 = caixaPlayer2.text;
-            SceneManager.LoadScene(nivells[0]);
+            SceneManager.LoadScene(nivells[Random.Range(0, 3)]);
         }
         //____________________________________________________________________________________
     }
